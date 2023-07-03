@@ -1,7 +1,7 @@
 # tbsite
 First Touret Bouclair Website Repository
 
-## my first documentation
+## My first documentation
 *Learning Github*
 
 * Department
